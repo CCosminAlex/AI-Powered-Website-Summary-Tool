@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "AI Powered Website Summary Tool",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "img.png",
+      "32": "img.png",
+      "48": "img.png",
+      "128": "img.png"
+    }
+  }
+}
